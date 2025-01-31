@@ -2,7 +2,7 @@
 
 # About Me 🌦️
 
-Hi there! I'm Muttita Chandawong or you can just call me *Poyfon* (its mean drizzle btw), a passionate developer and language enthusiast. I'm a 3rd year student at the College of Computing, Khon Kaen University. I love creating impactful applications. In addition to coding, I love learning languages and am currently studying Chinese and Korean to expand my communication skills and explore different cultures.
+Hi there! I'm **Muttita Chandawong** or you can just call me *Poyfon* (its mean drizzle btw), a passionate developer and language enthusiast. I'm a 3rd year student at the College of Computing, Khon Kaen University. I love creating impactful applications. In addition to coding, I love learning languages and am currently studying Chinese and Korean to expand my communication skills and explore different cultures.
 
 ## Areas of Interest
 - **NLP (Natural Language Processing)**: Working on text analysis, sentiment analysis, and language models.
