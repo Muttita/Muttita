@@ -35,17 +35,19 @@ Hi there! I'm **Muttita Chandawong** or you can just call me *Poyfon* (its mean 
        - Backend:
          - Built backend logic with Java and Spring Framework, developed RESTful APIs, and handled CRUD operations with Spring Data JPA.
          - Implemented security with Spring Security and followed SOLID principles for maintainable code.
+           
 2. **[Good days: Auspicious calendar](https://github.com/Muttita/Good-days-Auspicious-calendar_Using-Kotlin)**
    - Developed an Android app providing a detailed calendar of auspicious days for 2024, with features such as searching for specific events like weddings or housewarmings.
       - Platform: Built using Kotlin in Android Studio.
       - Features: Implemented a user-friendly interface, detailed event descriptions, and a robust search functionality.
+        
 3. **[ฺBakery Recipe Website](https://github.com/Muttita/Bakery-Recipes-System-using-PHP)**
    - Developed a bakery recipe website to efficiently manage and share recipes. The website features functionality for viewing, adding, editing, and deleting recipes, adding recipes to a baking list, commenting on recipes, managing user profiles, and searching for recipes.
       - Frontend:
         - Designed and implemented the user interface using HTML, CSS, and JavaScript.
       - Backend: 
         - Developed server-side functionalities and managed the MySQL database using PHP.
-        - 
+          
 3. **[ฺGhost Bistro Game](https://github.com/Muttita/GhostBistroGame_Using_Godot)**
    - Developed a 2D game where players act as a ghostly server, serving food to ghost customers to help them reach heaven. The project involved designing the game's story, characters, and environment.
       - Game Engine: Built using the Godot Engine with GDScript.
