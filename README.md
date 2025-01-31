@@ -6,7 +6,7 @@ Hi there! I'm **Muttita Chandawong** or you can just call me *Poyfon* (its mean 
 
 ## Areas of Interest 🧩
 - **NLP (Natural Language Processing)**: Working on text analysis, sentiment analysis, and language models.
-+ **OCR**: Exploring optical character recognition and improving text extraction accuracy.
+- **OCR**: Exploring optical character recognition and improving text extraction accuracy.
 - **Machine Learning**: Designing and implementing machine learning models to solve various problems.
 - **Web Development**: Building modern and scalable web applications using the latest technologies.
 - **Automation Testing**: Writing test scripts and automating the testing process for reliable software deployment.
