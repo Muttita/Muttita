@@ -1,6 +1,6 @@
 ---
 
-# About Me
+# About Me 🌦️
 
 Hi there! I'm Muttita Chandawong or you can just call me *Poyfon* (its mean drizzle btw), a passionate developer and language enthusiast. I'm a 3rd year student at the College of Computing, Khon Kaen University. I love creating impactful applications. In addition to coding, I love learning languages and am currently studying Chinese and Korean to expand my communication skills and explore different cultures.
 
@@ -30,9 +30,11 @@ Hi there! I'm Muttita Chandawong or you can just call me *Poyfon* (its mean driz
 ## Some of My Projects
 1. **[Home Decor Store POS System](https://github.com/Muttita/housely-website)**
    - Developed a POS system for a home decor store to manage product inventory and process sales using Java, HTML, CSS, JavaScript, Spring Framework, and MySQL.
-       Frontend: - Created a responsive UI with HTML, CSS, and JavaScript for managing inventory and sales.
-       Backend: - Built backend logic with Java and Spring Framework, developed RESTful APIs, and handled CRUD operations with Spring Data JPA.
-               - Implemented security with Spring Security and followed SOLID principles for maintainable code.
+       - Frontend:
+         - Created a responsive UI with HTML, CSS, and JavaScript for managing inventory and sales.
+       - Backend:
+         - Built backend logic with Java and Spring Framework, developed RESTful APIs, and handled CRUD operations with Spring Data JPA.
+         - Implemented security with Spring Security and followed SOLID principles for maintainable code.
 2. **[Good days: Auspicious calendar](https://github.com/Muttita/Good-days-Auspicious-calendar_Using-Kotlin)**
    - Developed an Android app providing a detailed calendar of auspicious days for 2024, with features such as searching for specific events like weddings or housewarmings.
       - Platform: Built using Kotlin in Android Studio.
@@ -53,8 +55,6 @@ Hi there! I'm Muttita Chandawong or you can just call me *Poyfon* (its mean driz
 - **Personal Email**: [muttita3169@gmail.com]
 - **University Email**: [muttita.c@kkumail.com]
 
-Feel free to check out my other repositories and follow me for updates on my latest projects!
+Feel free to check out my other repositories and follow me for updates on my latest projects! 😊❤️
 
 ---
-
-You can adjust the sections as needed to better reflect your profile and experience. This will give visitors a good idea of who you are and how they can connect with you.
